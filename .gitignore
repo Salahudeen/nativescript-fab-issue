@@ -3,6 +3,7 @@ platforms/
 node_modules/
 platforms/
 hooks/
+package-lock.json
 
 app/**/*.js
 

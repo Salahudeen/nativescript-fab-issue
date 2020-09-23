@@ -20,4 +20,9 @@ export class HomeComponent {
   public onTap() {
     this.counter--;
   }
+  
+  public fabTap() {
+    this.counter--;
+  }
+
 }
